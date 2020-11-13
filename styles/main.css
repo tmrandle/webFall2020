@@ -123,10 +123,6 @@ nav a {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-flow: cloumn nowrap;
-            flex-flow: cloumn nowrap;
   }
   .mixed-layout .second .second-a {
     -webkit-box-flex: 50%;
