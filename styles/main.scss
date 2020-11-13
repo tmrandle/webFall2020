@@ -29,7 +29,7 @@ html, body {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
-    align-items: center;
+    //align-items: center; This centers the p element also-doesn't match the wireframe, but looks neat.
   }
   .main-container {
     background: rgb(238, 238, 238);
